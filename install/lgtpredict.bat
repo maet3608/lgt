@@ -1,0 +1,1 @@
+java -Xmx2400M -Xss200M -cp "colt.jar;jtransforms-2.4.jar;LGTpredict.jar"  au.edu.imb.Evaluator %*

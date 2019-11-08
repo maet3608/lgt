@@ -1,0 +1,75 @@
+Synthetic evolution
+-------------------
+
+first organism (artificial sequences): 10 proteins with 548 aa (average)
+height of tree: 23.84, Speciations: 10
+Gene duplication rate: 0.00, transloc. Dupl.: 0.00
+Gene loss rate: 0.00
+LGT rate: 0.00
+
+
+something interesting is happening here...
+time 0.0000: speciation event of organism 1 to organism 2
+time 0.1211: deletion of length 2 in org/gene 1/2
+time 2.4329: deletion of length 10 in org/gene 1/9
+time 2.5978: speciation event of organism 1 to organism 3
+time 5.2662: deletion of length 1 in org/gene 3/2
+time 6.4595: deletion of length 1 in org/gene 3/2
+time 3.1220: deletion of length 1 in org/gene 3/5
+time 6.0762: insertion of length 4 in org/gene 3/7
+time 3.0896: insertion of length 1 in org/gene 3/10
+time 8.4336: speciation event of organism 3 to organism 4
+time 6.4690: deletion of length 1 in org/gene 1/1
+time 9.6002: deletion of length 7 in org/gene 1/4
+time 9.6174: deletion of length 26 in org/gene 1/5
+time 3.0814: deletion of length 3 in org/gene 1/10
+time 10.4474: speciation event of organism 1 to organism 5
+time 9.0471: deletion of length 3 in org/gene 3/5
+time 10.4762: insertion of length 30 in org/gene 3/5
+time 10.4835: speciation event of organism 3 to organism 6
+time 11.0953: speciation event of organism 3 to organism 7
+time 11.2275: speciation event of organism 7 to organism 8
+time 11.2540: speciation event of organism 5 to organism 9
+time 11.5495: insertion of length 35 in org/gene 8/4
+time 11.6891: speciation event of organism 8 to organism 10
+k: 4, nloss: 5
+time 12.6178: gene loss in organism 9 with gene 10
+k: 3, nloss: 5
+time 12.6178: gene loss in organism 9 with gene 9
+k: 2, nloss: 5
+time 12.6178: gene loss in organism 9 with gene 8
+k: 1, nloss: 5
+time 12.6178: gene loss in organism 9 with gene 7
+k: 0, nloss: 5
+time 12.6178: gene loss in organism 9 with gene 6
+time 10.4740: insertion of length 18 in org/gene 1/2
+time 2.0415: insertion of length 7 in org/gene 2/1
+time 14.7230: deletion of length 1 in org/gene 2/1
+time 2.6970: insertion of length 5 in org/gene 2/2
+time 7.4016: deletion of length 1 in org/gene 2/2
+time 7.5942: deletion of length 2 in org/gene 2/2
+time 15.5713: insertion of length 1 in org/gene 2/2
+time 15.7437: insertion of length 9 in org/gene 2/2
+time 17.9244: insertion of length 1 in org/gene 2/2
+time 22.0880: insertion of length 1 in org/gene 2/3
+time 4.2130: insertion of length 2 in org/gene 2/4
+time 8.7716: deletion of length 3 in org/gene 2/5
+time 11.2087: deletion of length 1 in org/gene 2/5
+time 5.6783: deletion of length 1 in org/gene 2/9
+time 8.5253: insertion of length 1 in org/gene 2/9
+time 11.1823: deletion of length 1 in org/gene 3/5
+time 10.3238: insertion of length 1 in org/gene 4/1
+time 8.6901: insertion of length 11 in org/gene 4/2
+time 12.7513: deletion of length 1 in org/gene 4/2
+time 12.4668: insertion of length 1 in org/gene 4/3
+time 13.5615: deletion of length 1 in org/gene 4/5
+time 12.8580: insertion of length 1 in org/gene 4/7
+time 13.7650: deletion of length 1 in org/gene 4/10
+time 11.3659: deletion of length 1 in org/gene 6/10
+time 13.2148: insertion of length 1 in org/gene 9/2
+
+
+
+95 genes in 10 species generated
+0 gene duplications resulting in 0 genes
+0 lgt events resulting in 0 genes

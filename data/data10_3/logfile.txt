@@ -1,0 +1,77 @@
+Synthetic evolution
+-------------------
+
+first organism (artificial sequences): 10 proteins with 459 aa (average)
+height of tree: 18.02, Speciations: 10
+Gene duplication rate: 0.00, transloc. Dupl.: 0.00
+Gene loss rate: 0.00
+LGT rate: 0.00
+
+
+something interesting is happening here...
+time 0.0000: speciation event of organism 1 to organism 2
+time 2.2761: deletion of length 1 in org/gene 1/10
+time 2.3637: speciation event of organism 1 to organism 3
+time 2.5442: speciation event of organism 1 to organism 4
+time 4.4105: deletion of length 1 in org/gene 1/6
+time 3.6874: insertion of length 1 in org/gene 1/10
+time 4.6058: speciation event of organism 1 to organism 5
+time 4.4707: insertion of length 1 in org/gene 4/4
+time 6.0211: speciation event of organism 4 to organism 6
+time 6.7187: speciation event of organism 6 to organism 7
+time 4.7864: deletion of length 1 in org/gene 5/4
+time 5.5905: insertion of length 1 in org/gene 5/4
+time 7.3759: speciation event of organism 5 to organism 8
+time 7.4487: speciation event of organism 5 to organism 9
+time 7.8441: lgt from organism 7 with gene 7 to organism 9, now gene 11
+k: 1, nloss: 2
+time 8.2754: gene loss in organism 8 with gene 2
+k: 0, nloss: 2
+time 8.2754: gene loss in organism 8 with gene 1
+time 7.9899: insertion of length 1 in org/gene 7/4
+time 8.2334: deletion of length 1 in org/gene 7/4
+time 7.9536: insertion of length 3 in org/gene 7/5
+time 8.3686: insertion of length 1 in org/gene 7/5
+time 8.8057: speciation event of organism 7 to organism 10
+k: 2, nloss: 3
+time 9.7292: gene loss in organism 3 with gene 7
+k: 1, nloss: 3
+time 9.7292: gene loss in organism 3 with gene 6
+k: 0, nloss: 3
+time 9.7292: gene loss in organism 3 with gene 5
+performing gene duplication of 3 genes
+time 4.8466: deletion of length 1 in org/gene 3/4
+time 9.4072: insertion of length 6 in org/gene 3/4
+time 11.2541: insertion of length 3 in org/gene 3/4
+time 11.4414: gene duplication in organism 3 with gene 2, now gene 12
+time 11.4414: gene duplication in organism 3 with gene 3, now gene 13
+time 11.4414: gene duplication in organism 3 with gene 4, now gene 14
+time 4.8495: deletion of length 1 in org/gene 1/4
+time 5.0499: deletion of length 7 in org/gene 1/5
+time 0.7353: deletion of length 2 in org/gene 2/2
+time 3.4124: insertion of length 1 in org/gene 2/3
+time 4.4384: deletion of length 1 in org/gene 2/4
+time 1.3328: deletion of length 8 in org/gene 2/6
+time 1.0391: insertion of length 2 in org/gene 2/9
+time 0.8174: deletion of length 3 in org/gene 2/10
+time 1.3715: insertion of length 1 in org/gene 2/10
+time 2.9250: deletion of length 1 in org/gene 2/10
+time 17.4862: insertion of length 2 in org/gene 3/3
+time 14.7737: deletion of length 2 in org/gene 3/4
+time 4.5126: insertion of length 1 in org/gene 3/7
+time 9.3279: insertion of length 1 in org/gene 3/7
+time 17.5873: deletion of length 1 in org/gene 3/10
+time 7.9244: insertion of length 1 in org/gene 4/4
+time 8.2072: deletion of length 3 in org/gene 4/10
+time 8.8480: insertion of length 1 in org/gene 5/8
+time 8.8366: insertion of length 11 in org/gene 5/10
+time 10.2175: deletion of length 2 in org/gene 5/10
+time 9.0270: deletion of length 6 in org/gene 8/6
+time 8.9688: insertion of length 6 in org/gene 9/5
+time 7.9446: insertion of length 1 in org/gene 9/10
+
+
+
+99 genes in 10 species generated
+1 gene duplications resulting in 3 genes
+1 lgt events resulting in 1 genes
